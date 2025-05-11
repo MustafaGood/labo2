@@ -33,6 +33,7 @@ Bygga projektet
 För att bygga projektet, kör:
 ```
 mvn clean install
+mvn clean package
 ```
 
 Köra projektet
